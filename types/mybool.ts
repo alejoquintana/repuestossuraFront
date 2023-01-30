@@ -1,0 +1,1 @@
+export type mybool = boolean | (1|0)

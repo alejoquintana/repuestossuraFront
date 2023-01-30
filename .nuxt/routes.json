@@ -1,0 +1,548 @@
+[
+  {
+    "name": "admin",
+    "path": "/admin",
+    "component": "/home/alejo/Documents/for git/SuspensionLujan/suspensionlujanfront/pages/admin/index.vue",
+    "chunkName": "pages/admin/index",
+    "_name": "_3fba0738"
+  },
+  {
+    "name": "carrito",
+    "path": "/carrito",
+    "component": "/home/alejo/Documents/for git/SuspensionLujan/suspensionlujanfront/pages/carrito.vue",
+    "chunkName": "pages/carrito",
+    "_name": "_496b6aec"
+  },
+  {
+    "name": "catalogo-digital",
+    "path": "/catalogo-digital",
+    "component": "/home/alejo/Documents/for git/SuspensionLujan/suspensionlujanfront/pages/catalogo-digital.vue",
+    "chunkName": "pages/catalogo-digital",
+    "_name": "_1f9b43ea"
+  },
+  {
+    "name": "categorias",
+    "path": "/categorias",
+    "component": "/home/alejo/Documents/for git/SuspensionLujan/suspensionlujanfront/pages/categorias.vue",
+    "chunkName": "pages/categorias",
+    "_name": "_3c526a2c"
+  },
+  {
+    "name": "cerrar-cuenta",
+    "path": "/cerrar-cuenta",
+    "component": "/home/alejo/Documents/for git/SuspensionLujan/suspensionlujanfront/pages/cerrar-cuenta.vue",
+    "chunkName": "pages/cerrar-cuenta",
+    "_name": "_2e1d7328"
+  },
+  {
+    "name": "contacto",
+    "path": "/contacto",
+    "component": "/home/alejo/Documents/for git/SuspensionLujan/suspensionlujanfront/pages/contacto.vue",
+    "chunkName": "pages/contacto",
+    "_name": "_ace20ace"
+  },
+  {
+    "name": "cotizador",
+    "path": "/cotizador",
+    "component": "/home/alejo/Documents/for git/SuspensionLujan/suspensionlujanfront/pages/cotizador.vue",
+    "chunkName": "pages/cotizador",
+    "_name": "_32aa00b6"
+  },
+  {
+    "name": "encontrar-repuesto",
+    "path": "/encontrar-repuesto",
+    "component": "/home/alejo/Documents/for git/SuspensionLujan/suspensionlujanfront/pages/encontrar-repuesto.vue",
+    "chunkName": "pages/encontrar-repuesto",
+    "_name": "_af668ea0"
+  },
+  {
+    "name": "encuesta",
+    "path": "/encuesta",
+    "component": "/home/alejo/Documents/for git/SuspensionLujan/suspensionlujanfront/pages/encuesta.vue",
+    "chunkName": "pages/encuesta",
+    "_name": "_264d43c0"
+  },
+  {
+    "name": "fbcallback",
+    "path": "/fbcallback",
+    "component": "/home/alejo/Documents/for git/SuspensionLujan/suspensionlujanfront/pages/fbcallback.vue",
+    "chunkName": "pages/fbcallback",
+    "_name": "_f42ac46a"
+  },
+  {
+    "name": "import-test",
+    "path": "/import-test",
+    "component": "/home/alejo/Documents/for git/SuspensionLujan/suspensionlujanfront/pages/import-test.vue",
+    "chunkName": "pages/import-test",
+    "_name": "_20416ae0"
+  },
+  {
+    "name": "inspire",
+    "path": "/inspire",
+    "component": "/home/alejo/Documents/for git/SuspensionLujan/suspensionlujanfront/pages/inspire.vue",
+    "chunkName": "pages/inspire",
+    "_name": "_21e45a00"
+  },
+  {
+    "name": "linktree",
+    "path": "/linktree",
+    "component": "/home/alejo/Documents/for git/SuspensionLujan/suspensionlujanfront/pages/linktree.vue",
+    "chunkName": "pages/linktree",
+    "_name": "_1fd0373c"
+  },
+  {
+    "name": "login",
+    "path": "/login",
+    "component": "/home/alejo/Documents/for git/SuspensionLujan/suspensionlujanfront/pages/login.vue",
+    "chunkName": "pages/login",
+    "_name": "_21adbb8f"
+  },
+  {
+    "name": "logout",
+    "path": "/logout",
+    "component": "/home/alejo/Documents/for git/SuspensionLujan/suspensionlujanfront/pages/logout.vue",
+    "chunkName": "pages/logout",
+    "_name": "_611abed4"
+  },
+  {
+    "name": "mi-cuenta",
+    "path": "/mi-cuenta",
+    "component": "/home/alejo/Documents/for git/SuspensionLujan/suspensionlujanfront/pages/mi-cuenta.vue",
+    "chunkName": "pages/mi-cuenta",
+    "_name": "_5182aa82"
+  },
+  {
+    "name": "novedades",
+    "path": "/novedades",
+    "component": "/home/alejo/Documents/for git/SuspensionLujan/suspensionlujanfront/pages/novedades.vue",
+    "chunkName": "pages/novedades",
+    "_name": "_9fe8012a"
+  },
+  {
+    "name": "ofertas",
+    "path": "/ofertas",
+    "component": "/home/alejo/Documents/for git/SuspensionLujan/suspensionlujanfront/pages/ofertas.vue",
+    "chunkName": "pages/ofertas",
+    "_name": "_b06b96f0"
+  },
+  {
+    "name": "otros-productos",
+    "path": "/otros-productos",
+    "component": "/home/alejo/Documents/for git/SuspensionLujan/suspensionlujanfront/pages/otros-productos.vue",
+    "chunkName": "pages/otros-productos",
+    "_name": "_02b69dbd"
+  },
+  {
+    "name": "recuperar-contraseña",
+    "path": "/recuperar-contrase%C3%B1a",
+    "component": "/home/alejo/Documents/for git/SuspensionLujan/suspensionlujanfront/pages/recuperar-contraseña.vue",
+    "chunkName": "pages/recuperar-contraseña",
+    "_name": "_4490e011"
+  },
+  {
+    "name": "recuperar-pass",
+    "path": "/recuperar-pass",
+    "component": "/home/alejo/Documents/for git/SuspensionLujan/suspensionlujanfront/pages/recuperar-pass.vue",
+    "chunkName": "pages/recuperar-pass",
+    "_name": "_9c656442"
+  },
+  {
+    "name": "registrate",
+    "path": "/registrate",
+    "component": "/home/alejo/Documents/for git/SuspensionLujan/suspensionlujanfront/pages/registrate.vue",
+    "chunkName": "pages/registrate",
+    "_name": "_cea8f8c0"
+  },
+  {
+    "name": "registro-exitoso",
+    "path": "/registro-exitoso",
+    "component": "/home/alejo/Documents/for git/SuspensionLujan/suspensionlujanfront/pages/registro-exitoso.vue",
+    "chunkName": "pages/registro-exitoso",
+    "_name": "_7ed62fdd"
+  },
+  {
+    "name": "resgindex",
+    "path": "/resgindex",
+    "component": "/home/alejo/Documents/for git/SuspensionLujan/suspensionlujanfront/pages/resgindex.vue",
+    "chunkName": "pages/resgindex",
+    "_name": "_73185591"
+  },
+  {
+    "name": "resultados-de-busqueda",
+    "path": "/resultados-de-busqueda",
+    "component": "/home/alejo/Documents/for git/SuspensionLujan/suspensionlujanfront/pages/resultados-de-busqueda.vue",
+    "chunkName": "pages/resultados-de-busqueda",
+    "_name": "_0451e6aa"
+  },
+  {
+    "name": "sitemap",
+    "path": "/sitemap",
+    "component": "/home/alejo/Documents/for git/SuspensionLujan/suspensionlujanfront/pages/sitemap.vue",
+    "chunkName": "pages/sitemap",
+    "_name": "_6152b14a"
+  },
+  {
+    "name": "terminos-y-condiciones",
+    "path": "/terminos-y-condiciones",
+    "component": "/home/alejo/Documents/for git/SuspensionLujan/suspensionlujanfront/pages/terminos-y-condiciones.vue",
+    "chunkName": "pages/terminos-y-condiciones",
+    "_name": "_688fc8d8"
+  },
+  {
+    "name": "test",
+    "path": "/test",
+    "component": "/home/alejo/Documents/for git/SuspensionLujan/suspensionlujanfront/pages/test/index.vue",
+    "chunkName": "pages/test/index",
+    "_name": "_7a868042"
+  },
+  {
+    "name": "ubicacion",
+    "path": "/ubicacion",
+    "component": "/home/alejo/Documents/for git/SuspensionLujan/suspensionlujanfront/pages/ubicacion.vue",
+    "chunkName": "pages/ubicacion",
+    "_name": "_f4abf276"
+  },
+  {
+    "name": "admin-configuraciones",
+    "path": "/admin/configuraciones",
+    "component": "/home/alejo/Documents/for git/SuspensionLujan/suspensionlujanfront/pages/admin/configuraciones/index.vue",
+    "chunkName": "pages/admin/configuraciones/index",
+    "_name": "_97621984"
+  },
+  {
+    "name": "admin-estadisticas",
+    "path": "/admin/estadisticas",
+    "component": "/home/alejo/Documents/for git/SuspensionLujan/suspensionlujanfront/pages/admin/estadisticas/index.vue",
+    "chunkName": "pages/admin/estadisticas/index",
+    "_name": "_10e3924c"
+  },
+  {
+    "name": "admin-importar-relaciones",
+    "path": "/admin/importar-relaciones",
+    "component": "/home/alejo/Documents/for git/SuspensionLujan/suspensionlujanfront/pages/admin/importar-relaciones/index.vue",
+    "chunkName": "pages/admin/importar-relaciones/index",
+    "_name": "_23be9f1b"
+  },
+  {
+    "name": "admin-marcas-de-autos",
+    "path": "/admin/marcas-de-autos",
+    "component": "/home/alejo/Documents/for git/SuspensionLujan/suspensionlujanfront/pages/admin/marcas-de-autos/index.vue",
+    "chunkName": "pages/admin/marcas-de-autos/index",
+    "_name": "_cf12e3d2"
+  },
+  {
+    "name": "admin-metadata",
+    "path": "/admin/metadata",
+    "component": "/home/alejo/Documents/for git/SuspensionLujan/suspensionlujanfront/pages/admin/metadata/index.vue",
+    "chunkName": "pages/admin/metadata/index",
+    "_name": "_b0fbd308"
+  },
+  {
+    "name": "admin-modelos-de-autos",
+    "path": "/admin/modelos-de-autos",
+    "component": "/home/alejo/Documents/for git/SuspensionLujan/suspensionlujanfront/pages/admin/modelos-de-autos/index.vue",
+    "chunkName": "pages/admin/modelos-de-autos/index",
+    "_name": "_8a131536"
+  },
+  {
+    "name": "admin-pedidos",
+    "path": "/admin/pedidos",
+    "component": "/home/alejo/Documents/for git/SuspensionLujan/suspensionlujanfront/pages/admin/pedidos/index.vue",
+    "chunkName": "pages/admin/pedidos/index",
+    "_name": "_199f8637"
+  },
+  {
+    "name": "admin-posts",
+    "path": "/admin/posts",
+    "component": "/home/alejo/Documents/for git/SuspensionLujan/suspensionlujanfront/pages/admin/posts/index.vue",
+    "chunkName": "pages/admin/posts/index",
+    "_name": "_4d02ed08"
+  },
+  {
+    "name": "admin-productos",
+    "path": "/admin/productos",
+    "component": "/home/alejo/Documents/for git/SuspensionLujan/suspensionlujanfront/pages/admin/productos/index.vue",
+    "chunkName": "pages/admin/productos/index",
+    "_name": "_1c7afc88"
+  },
+  {
+    "name": "admin-rubros",
+    "path": "/admin/rubros",
+    "component": "/home/alejo/Documents/for git/SuspensionLujan/suspensionlujanfront/pages/admin/rubros/index.vue",
+    "chunkName": "pages/admin/rubros/index",
+    "_name": "_454510c4"
+  },
+  {
+    "name": "admin-usuarios",
+    "path": "/admin/usuarios",
+    "component": "/home/alejo/Documents/for git/SuspensionLujan/suspensionlujanfront/pages/admin/usuarios/index.vue",
+    "chunkName": "pages/admin/usuarios/index",
+    "_name": "_36c2bad2"
+  },
+  {
+    "name": "test-testabc",
+    "path": "/test/testabc",
+    "component": "/home/alejo/Documents/for git/SuspensionLujan/suspensionlujanfront/pages/test/testabc.vue",
+    "chunkName": "pages/test/testabc",
+    "_name": "_32e0115d"
+  },
+  {
+    "name": "admin-configuraciones-appImages",
+    "path": "/admin/configuraciones/appImages",
+    "component": "/home/alejo/Documents/for git/SuspensionLujan/suspensionlujanfront/pages/admin/configuraciones/appImages.vue",
+    "chunkName": "pages/admin/configuraciones/appImages",
+    "_name": "_3dfe60e5"
+  },
+  {
+    "name": "admin-configuraciones-banner-home",
+    "path": "/admin/configuraciones/banner-home",
+    "component": "/home/alejo/Documents/for git/SuspensionLujan/suspensionlujanfront/pages/admin/configuraciones/banner-home.vue",
+    "chunkName": "pages/admin/configuraciones/banner-home",
+    "_name": "_43b95168"
+  },
+  {
+    "name": "admin-configuraciones-home-marcas",
+    "path": "/admin/configuraciones/home-marcas",
+    "component": "/home/alejo/Documents/for git/SuspensionLujan/suspensionlujanfront/pages/admin/configuraciones/home-marcas.vue",
+    "chunkName": "pages/admin/configuraciones/home-marcas",
+    "_name": "_66635c51"
+  },
+  {
+    "name": "admin-configuraciones-linktree",
+    "path": "/admin/configuraciones/linktree",
+    "component": "/home/alejo/Documents/for git/SuspensionLujan/suspensionlujanfront/pages/admin/configuraciones/linktree.vue",
+    "chunkName": "pages/admin/configuraciones/linktree",
+    "_name": "_3242cbdc"
+  },
+  {
+    "name": "admin-configuraciones-minimos",
+    "path": "/admin/configuraciones/minimos",
+    "component": "/home/alejo/Documents/for git/SuspensionLujan/suspensionlujanfront/pages/admin/configuraciones/minimos.vue",
+    "chunkName": "pages/admin/configuraciones/minimos",
+    "_name": "_05201e74"
+  },
+  {
+    "name": "admin-configuraciones-pdfs",
+    "path": "/admin/configuraciones/pdfs",
+    "component": "/home/alejo/Documents/for git/SuspensionLujan/suspensionlujanfront/pages/admin/configuraciones/pdfs.vue",
+    "chunkName": "pages/admin/configuraciones/pdfs",
+    "_name": "_9179c6f6"
+  },
+  {
+    "name": "admin-configuraciones-puntos-de-retiro",
+    "path": "/admin/configuraciones/puntos-de-retiro",
+    "component": "/home/alejo/Documents/for git/SuspensionLujan/suspensionlujanfront/pages/admin/configuraciones/puntos-de-retiro.vue",
+    "chunkName": "pages/admin/configuraciones/puntos-de-retiro",
+    "_name": "_14d81817"
+  },
+  {
+    "name": "admin-configuraciones-slider-banner-home",
+    "path": "/admin/configuraciones/slider-banner-home",
+    "component": "/home/alejo/Documents/for git/SuspensionLujan/suspensionlujanfront/pages/admin/configuraciones/slider-banner-home.vue",
+    "chunkName": "pages/admin/configuraciones/slider-banner-home",
+    "_name": "_2adf9790"
+  },
+  {
+    "name": "admin-configuraciones-sociales",
+    "path": "/admin/configuraciones/sociales",
+    "component": "/home/alejo/Documents/for git/SuspensionLujan/suspensionlujanfront/pages/admin/configuraciones/sociales.vue",
+    "chunkName": "pages/admin/configuraciones/sociales",
+    "_name": "_4b73589f"
+  },
+  {
+    "name": "admin-configuraciones-sucursales",
+    "path": "/admin/configuraciones/sucursales",
+    "component": "/home/alejo/Documents/for git/SuspensionLujan/suspensionlujanfront/pages/admin/configuraciones/sucursales.vue",
+    "chunkName": "pages/admin/configuraciones/sucursales",
+    "_name": "_6049ba72"
+  },
+  {
+    "name": "admin-configuraciones-textos-barra-negra",
+    "path": "/admin/configuraciones/textos-barra-negra",
+    "component": "/home/alejo/Documents/for git/SuspensionLujan/suspensionlujanfront/pages/admin/configuraciones/textos-barra-negra.vue",
+    "chunkName": "pages/admin/configuraciones/textos-barra-negra",
+    "_name": "_00b4a9fc"
+  },
+  {
+    "name": "admin-estadisticas-busquedas",
+    "path": "/admin/estadisticas/busquedas",
+    "component": "/home/alejo/Documents/for git/SuspensionLujan/suspensionlujanfront/pages/admin/estadisticas/busquedas.vue",
+    "chunkName": "pages/admin/estadisticas/busquedas",
+    "_name": "_1dbf943d"
+  },
+  {
+    "name": "admin-estadisticas-cancelados",
+    "path": "/admin/estadisticas/cancelados",
+    "component": "/home/alejo/Documents/for git/SuspensionLujan/suspensionlujanfront/pages/admin/estadisticas/cancelados.vue",
+    "chunkName": "pages/admin/estadisticas/cancelados",
+    "_name": "_87eccb2e"
+  },
+  {
+    "name": "admin-estadisticas-encuestas",
+    "path": "/admin/estadisticas/encuestas",
+    "component": "/home/alejo/Documents/for git/SuspensionLujan/suspensionlujanfront/pages/admin/estadisticas/encuestas.vue",
+    "chunkName": "pages/admin/estadisticas/encuestas",
+    "_name": "_22961a76"
+  },
+  {
+    "name": "admin-estadisticas-grafico-de-ventas",
+    "path": "/admin/estadisticas/grafico-de-ventas",
+    "component": "/home/alejo/Documents/for git/SuspensionLujan/suspensionlujanfront/pages/admin/estadisticas/grafico-de-ventas.vue",
+    "chunkName": "pages/admin/estadisticas/grafico-de-ventas",
+    "_name": "_56ed4673"
+  },
+  {
+    "name": "admin-estadisticas-log-de-actualizaciones",
+    "path": "/admin/estadisticas/log-de-actualizaciones",
+    "component": "/home/alejo/Documents/for git/SuspensionLujan/suspensionlujanfront/pages/admin/estadisticas/log-de-actualizaciones.vue",
+    "chunkName": "pages/admin/estadisticas/log-de-actualizaciones",
+    "_name": "_1becd28c"
+  },
+  {
+    "name": "admin-estadisticas-mas-vendidos",
+    "path": "/admin/estadisticas/mas-vendidos",
+    "component": "/home/alejo/Documents/for git/SuspensionLujan/suspensionlujanfront/pages/admin/estadisticas/mas-vendidos.vue",
+    "chunkName": "pages/admin/estadisticas/mas-vendidos",
+    "_name": "_f0da1b8c"
+  },
+  {
+    "name": "admin-estadisticas-productos-sin-fotos",
+    "path": "/admin/estadisticas/productos-sin-fotos",
+    "component": "/home/alejo/Documents/for git/SuspensionLujan/suspensionlujanfront/pages/admin/estadisticas/productos-sin-fotos.vue",
+    "chunkName": "pages/admin/estadisticas/productos-sin-fotos",
+    "_name": "_471a2788"
+  },
+  {
+    "name": "admin-estadisticas-track-events",
+    "path": "/admin/estadisticas/track-events",
+    "component": "/home/alejo/Documents/for git/SuspensionLujan/suspensionlujanfront/pages/admin/estadisticas/track-events.vue",
+    "chunkName": "pages/admin/estadisticas/track-events",
+    "_name": "_fc7e8afa"
+  },
+  {
+    "name": "admin-estadisticas-UFOS",
+    "path": "/admin/estadisticas/UFOS",
+    "component": "/home/alejo/Documents/for git/SuspensionLujan/suspensionlujanfront/pages/admin/estadisticas/UFOS.vue",
+    "chunkName": "pages/admin/estadisticas/UFOS",
+    "_name": "_aa7c3c46"
+  },
+  {
+    "name": "admin-estadisticas-url-repetidos",
+    "path": "/admin/estadisticas/url-repetidos",
+    "component": "/home/alejo/Documents/for git/SuspensionLujan/suspensionlujanfront/pages/admin/estadisticas/url-repetidos.vue",
+    "chunkName": "pages/admin/estadisticas/url-repetidos",
+    "_name": "_11c9a416"
+  },
+  {
+    "name": "admin-estadisticas-usuarios",
+    "path": "/admin/estadisticas/usuarios",
+    "component": "/home/alejo/Documents/for git/SuspensionLujan/suspensionlujanfront/pages/admin/estadisticas/usuarios.vue",
+    "chunkName": "pages/admin/estadisticas/usuarios",
+    "_name": "_30de70ad"
+  },
+  {
+    "name": "admin-estadisticas-ventas",
+    "path": "/admin/estadisticas/ventas",
+    "component": "/home/alejo/Documents/for git/SuspensionLujan/suspensionlujanfront/pages/admin/estadisticas/ventas.vue",
+    "chunkName": "pages/admin/estadisticas/ventas",
+    "_name": "_3040e04f"
+  },
+  {
+    "name": "admin-estadisticas-ventas-por-provincia",
+    "path": "/admin/estadisticas/ventas-por-provincia",
+    "component": "/home/alejo/Documents/for git/SuspensionLujan/suspensionlujanfront/pages/admin/estadisticas/ventas-por-provincia.vue",
+    "chunkName": "pages/admin/estadisticas/ventas-por-provincia",
+    "_name": "_59ff86b5"
+  },
+  {
+    "name": "admin-marcas-de-autos-importar",
+    "path": "/admin/marcas-de-autos/importar",
+    "component": "/home/alejo/Documents/for git/SuspensionLujan/suspensionlujanfront/pages/admin/marcas-de-autos/importar.vue",
+    "chunkName": "pages/admin/marcas-de-autos/importar",
+    "_name": "_4da0093e"
+  },
+  {
+    "name": "admin-metadata-categorias",
+    "path": "/admin/metadata/categorias",
+    "component": "/home/alejo/Documents/for git/SuspensionLujan/suspensionlujanfront/pages/admin/metadata/categorias.vue",
+    "chunkName": "pages/admin/metadata/categorias",
+    "_name": "_7cfcef66"
+  },
+  {
+    "name": "admin-metadata-paginas",
+    "path": "/admin/metadata/paginas",
+    "component": "/home/alejo/Documents/for git/SuspensionLujan/suspensionlujanfront/pages/admin/metadata/paginas.vue",
+    "chunkName": "pages/admin/metadata/paginas",
+    "_name": "_1bed2557"
+  },
+  {
+    "name": "admin-metadata-productos",
+    "path": "/admin/metadata/productos",
+    "component": "/home/alejo/Documents/for git/SuspensionLujan/suspensionlujanfront/pages/admin/metadata/productos.vue",
+    "chunkName": "pages/admin/metadata/productos",
+    "_name": "_8a383186"
+  },
+  {
+    "name": "admin-modelos-de-autos-importar",
+    "path": "/admin/modelos-de-autos/importar",
+    "component": "/home/alejo/Documents/for git/SuspensionLujan/suspensionlujanfront/pages/admin/modelos-de-autos/importar.vue",
+    "chunkName": "pages/admin/modelos-de-autos/importar",
+    "_name": "_c913ad5a"
+  },
+  {
+    "name": "admin-productos-importar",
+    "path": "/admin/productos/importar",
+    "component": "/home/alejo/Documents/for git/SuspensionLujan/suspensionlujanfront/pages/admin/productos/importar.vue",
+    "chunkName": "pages/admin/productos/importar",
+    "_name": "_66c6299c"
+  },
+  {
+    "name": "admin-rubros-importar",
+    "path": "/admin/rubros/importar",
+    "component": "/home/alejo/Documents/for git/SuspensionLujan/suspensionlujanfront/pages/admin/rubros/importar.vue",
+    "chunkName": "pages/admin/rubros/importar",
+    "_name": "_e5ee44d8"
+  },
+  {
+    "name": "admin-pedidos-id",
+    "path": "/admin/pedidos/:id",
+    "component": "/home/alejo/Documents/for git/SuspensionLujan/suspensionlujanfront/pages/admin/pedidos/_id.vue",
+    "chunkName": "pages/admin/pedidos/_id",
+    "_name": "_48f7aa5f"
+  },
+  {
+    "name": "confirmacion-de-registro-token",
+    "path": "/confirmacion-de-registro/:token?",
+    "component": "/home/alejo/Documents/for git/SuspensionLujan/suspensionlujanfront/pages/confirmacion-de-registro/_token.vue",
+    "chunkName": "pages/confirmacion-de-registro/_token",
+    "_name": "_814afa12"
+  },
+  {
+    "name": "info-post",
+    "path": "/info/:post?",
+    "component": "/home/alejo/Documents/for git/SuspensionLujan/suspensionlujanfront/pages/info/_post.vue",
+    "chunkName": "pages/info/_post",
+    "_name": "_f20d11b0"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/home/alejo/Documents/for git/SuspensionLujan/suspensionlujanfront/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_58061878"
+  },
+  {
+    "name": "category",
+    "path": "/:category",
+    "component": "/home/alejo/Documents/for git/SuspensionLujan/suspensionlujanfront/pages/_category/index.vue",
+    "chunkName": "pages/_category/index",
+    "_name": "_4698fc74"
+  },
+  {
+    "name": "category-product",
+    "path": "/:category/:product",
+    "component": "/home/alejo/Documents/for git/SuspensionLujan/suspensionlujanfront/pages/_category/_product.vue",
+    "chunkName": "pages/_category/_product",
+    "_name": "_a2b43d28"
+  }
+]

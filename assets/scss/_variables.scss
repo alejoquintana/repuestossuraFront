@@ -1,0 +1,17 @@
+$primary: #126293;
+$tertiary: #B90105;
+$blue: #126293;
+$red: #B90105;
+$gray: #EEE3E3;
+
+// TYPOGRAPHY
+$font-family:'Nunito Sans',sans-serif;
+$font-family-sans-serif: 'Nunito Sans', sans-serif;
+$font-size-base: 14px;
+$line-height-base: 1.6;
+$material-light: ( text-color: blue );
+$material-light: ( fg-color: blue );
+//$material-light: map-deep-merge(( 'text-color': #126293 ), $material-light);
+//$material-light: map-deep-merge(( 'fg-color': #126293 ), $material-light);
+
+$maxContainerWidth:80vw;

@@ -1,0 +1,500 @@
+{
+  "Logo": {
+    "description": "Auto imported from components/Logo.vue"
+  },
+  "VuetifyLogo": {
+    "description": "Auto imported from components/VuetifyLogo.vue"
+  },
+  "Test": {
+    "description": "Auto imported from components/test.vue"
+  },
+  "AuthCloseAccount": {
+    "description": "Auto imported from components/auth/close-account.vue"
+  },
+  "AuthLoginSugestion": {
+    "description": "Auto imported from components/auth/login-sugestion.vue"
+  },
+  "AuthRegisterSugestion": {
+    "description": "Auto imported from components/auth/register-sugestion.vue"
+  },
+  "AuthSocialLogin": {
+    "description": "Auto imported from components/auth/social-login.vue"
+  },
+  "CarritoPage": {
+    "description": "Auto imported from components/carrito/Carrito.page.vue"
+  },
+  "CarritoEditOrder": {
+    "description": "Auto imported from components/carrito/editOrder.vue"
+  },
+  "CarritoShoplist": {
+    "description": "Auto imported from components/carrito/shoplist.vue"
+  },
+  "Catalogo": {
+    "description": "Auto imported from components/catalogo/catalogo.vue"
+  },
+  "CatalogoCategory": {
+    "description": "Auto imported from components/catalogo/category.vue"
+  },
+  "CatalogoPortada": {
+    "description": "Auto imported from components/catalogo/portada.vue"
+  },
+  "CatalogoPrice": {
+    "description": "Auto imported from components/catalogo/price.vue"
+  },
+  "CatalogoProductCard": {
+    "description": "Auto imported from components/catalogo/product-card.vue"
+  },
+  "CategoriasCard": {
+    "description": "Auto imported from components/categorias/categorias.card.vue"
+  },
+  "Categorias": {
+    "description": "Auto imported from components/categorias/categorias.vue"
+  },
+  "CategoryPage": {
+    "description": "Auto imported from components/category/Category.page.vue"
+  },
+  "CategoryHomecardCategory": {
+    "description": "Auto imported from components/category/homecard.category.vue"
+  },
+  "CommonCsvImport": {
+    "description": "Auto imported from components/common/CsvImport.vue"
+  },
+  "CommonInfoRow": {
+    "description": "Auto imported from components/common/Info-row.vue"
+  },
+  "CommonModal": {
+    "description": "Auto imported from components/common/Modal.vue"
+  },
+  "CommonCanvasUploadResg": {
+    "description": "Auto imported from components/common/canvas-upload-resg.vue"
+  },
+  "CommonCanvasUpload": {
+    "description": "Auto imported from components/common/canvas-upload.vue"
+  },
+  "CommonChart": {
+    "description": "Auto imported from components/common/chart.vue"
+  },
+  "CommonConfigurableBanner": {
+    "description": "Auto imported from components/common/configurable-banner.vue"
+  },
+  "CommonCropper": {
+    "description": "Auto imported from components/common/cropper.vue"
+  },
+  "CommonImagesModal": {
+    "description": "Auto imported from components/common/images-modal.vue"
+  },
+  "CommonLoaderImg": {
+    "description": "Auto imported from components/common/loader-img.vue"
+  },
+  "CommonRegisterModal": {
+    "description": "Auto imported from components/common/register-modal.vue"
+  },
+  "CommonRibbonTitle": {
+    "description": "Auto imported from components/common/ribbon.title.vue"
+  },
+  "CommonSnackbar": {
+    "description": "Auto imported from components/common/snackbar.vue"
+  },
+  "Contacto": {
+    "description": "Auto imported from components/contacto/Contacto.vue"
+  },
+  "CotizadorPage": {
+    "description": "Auto imported from components/cotizador/Cotizador.page.vue"
+  },
+  "CotizadorCardCotizadorProduct": {
+    "description": "Auto imported from components/cotizador/card.cotizador.product.vue"
+  },
+  "CotizadorCategoryRow": {
+    "description": "Auto imported from components/cotizador/category.row.vue"
+  },
+  "CotizadorHeaderRowMobil": {
+    "description": "Auto imported from components/cotizador/header.row.mobil.vue"
+  },
+  "CotizadorHeaderRowWide": {
+    "description": "Auto imported from components/cotizador/header.row.wide.vue"
+  },
+  "EncontrarRepuestoPage": {
+    "description": "Auto imported from components/encontrar-repuesto/Encontrar-repuesto.page.vue"
+  },
+  "EncuestaPage": {
+    "description": "Auto imported from components/encuesta/Encuesta.page.vue"
+  },
+  "HomeBanner": {
+    "description": "Auto imported from components/home/Banner.vue"
+  },
+  "HomeBrandsHome": {
+    "description": "Auto imported from components/home/BrandsHome.vue"
+  },
+  "HomeFindProduct": {
+    "description": "Auto imported from components/home/Find.Product.vue"
+  },
+  "Home": {
+    "description": "Auto imported from components/home/Home.vue"
+  },
+  "LayoutLoading": {
+    "description": "Auto imported from components/layout/loading.vue"
+  },
+  "LayoutSystemLoading": {
+    "description": "Auto imported from components/layout/system-loading.vue"
+  },
+  "LayoutWhatsapp": {
+    "description": "Auto imported from components/layout/whatsapp.vue"
+  },
+  "Linktree": {
+    "description": "Auto imported from components/linktree/linktree.vue"
+  },
+  "MiCuentaPage": {
+    "description": "Auto imported from components/mi-cuenta/miCuenta.page.vue"
+  },
+  "NovedadesPage": {
+    "description": "Auto imported from components/novedades/novedades.page.vue"
+  },
+  "OfertasPage": {
+    "description": "Auto imported from components/ofertas/Ofertas.page.vue"
+  },
+  "OtrosProductosPageRes": {
+    "description": "Auto imported from components/otros-productos/otros-productos.page-res.vue"
+  },
+  "OtrosProductosPage": {
+    "description": "Auto imported from components/otros-productos/otros-productos.page.vue"
+  },
+  "Post": {
+    "description": "Auto imported from components/post/Post.vue"
+  },
+  "PostSectionsPanel": {
+    "description": "Auto imported from components/post/sections-panel.vue"
+  },
+  "ProductPage": {
+    "description": "Auto imported from components/product/Product.page.vue"
+  },
+  "ProductCardProduct": {
+    "description": "Auto imported from components/product/card.product.vue"
+  },
+  "ProductInfoCardProduct": {
+    "description": "Auto imported from components/product/info.card.product.vue"
+  },
+  "ProductPriceCardProduct": {
+    "description": "Auto imported from components/product/price.card.product.vue"
+  },
+  "ProductPricetagCardProduct": {
+    "description": "Auto imported from components/product/pricetag.card.product.vue"
+  },
+  "ProductShopButton": {
+    "description": "Auto imported from components/product/shop-button.vue"
+  },
+  "ResultadosPage": {
+    "description": "Auto imported from components/resultados-de-busqueda/resultados.page.vue"
+  },
+  "Tyc": {
+    "description": "Auto imported from components/tyc/Tyc.vue"
+  },
+  "Ubicacion": {
+    "description": "Auto imported from components/ubicacion/Ubicacion.vue"
+  },
+  "AdminCategorias": {
+    "description": "Auto imported from components/admin/categorias/Categorias.vue"
+  },
+  "AdminCategoriasImportarCategorias": {
+    "description": "Auto imported from components/admin/categorias/ImportarCategorias.vue"
+  },
+  "AdminCategoriasCategoryImageModal": {
+    "description": "Auto imported from components/admin/categorias/category.image-modal.vue"
+  },
+  "AdminCategoriasCategoryRow": {
+    "description": "Auto imported from components/admin/categorias/category.row.vue"
+  },
+  "AdminCategoriasCreateCategory": {
+    "description": "Auto imported from components/admin/categorias/create.category.vue"
+  },
+  "AdminConfiguraciones": {
+    "description": "Auto imported from components/admin/configuraciones/Configuraciones.vue"
+  },
+  "AdminConfiguracionesAppImages": {
+    "description": "Auto imported from components/admin/configuraciones/appImages.vue"
+  },
+  "AdminConfiguracionesMinimos": {
+    "description": "Auto imported from components/admin/configuraciones/minimos.vue"
+  },
+  "AdminConfiguracionesPdfs": {
+    "description": "Auto imported from components/admin/configuraciones/pdfs.vue"
+  },
+  "AdminConfiguracionesRetiro": {
+    "description": "Auto imported from components/admin/configuraciones/retiro.vue"
+  },
+  "AdminConfiguracionesSociales": {
+    "description": "Auto imported from components/admin/configuraciones/sociales.vue"
+  },
+  "AdminEstadisticasBusquedas": {
+    "description": "Auto imported from components/admin/estadisticas/busquedas.vue"
+  },
+  "AdminEstadisticasChart": {
+    "description": "Auto imported from components/admin/estadisticas/chart.js"
+  },
+  "AdminEstadisticasEllipseChart": {
+    "description": "Auto imported from components/admin/estadisticas/ellipse-chart.js"
+  },
+  "AdminEstadisticasEncuestas": {
+    "description": "Auto imported from components/admin/estadisticas/encuestas.vue"
+  },
+  "AdminEstadisticasGraficoDeVentas": {
+    "description": "Auto imported from components/admin/estadisticas/grafico-de-ventas.vue"
+  },
+  "AdminEstadisticasMasVendidos": {
+    "description": "Auto imported from components/admin/estadisticas/mas-vendidos.vue"
+  },
+  "AdminEstadisticasProductsNoPhotos": {
+    "description": "Auto imported from components/admin/estadisticas/products-no-photos.vue"
+  },
+  "AdminEstadisticasProductsUpdateLog": {
+    "description": "Auto imported from components/admin/estadisticas/products-update-log.vue"
+  },
+  "AdminEstadisticasTrackEvents": {
+    "description": "Auto imported from components/admin/estadisticas/track-events.vue"
+  },
+  "AdminEstadisticasUfos": {
+    "description": "Auto imported from components/admin/estadisticas/ufos.vue"
+  },
+  "AdminEstadisticasUrlRepetidos": {
+    "description": "Auto imported from components/admin/estadisticas/url-repetidos.vue"
+  },
+  "AdminEstadisticasVentasPorProvincia": {
+    "description": "Auto imported from components/admin/estadisticas/ventas-por-provincia.vue"
+  },
+  "AdminImportarRelaciones": {
+    "description": "Auto imported from components/admin/importar-relaciones/ImportarRelaciones.vue"
+  },
+  "AdminLayoutMenu": {
+    "description": "Auto imported from components/admin/layout/menu.vue"
+  },
+  "AdminLayoutTopNav": {
+    "description": "Auto imported from components/admin/layout/top-nav.vue"
+  },
+  "AdminMarcasDeAutosBrands": {
+    "description": "Auto imported from components/admin/marcas-de-autos/Brands.vue"
+  },
+  "AdminMarcasDeAutosImportBrands": {
+    "description": "Auto imported from components/admin/marcas-de-autos/ImportBrands.vue"
+  },
+  "AdminMarcasDeAutosBrandRow": {
+    "description": "Auto imported from components/admin/marcas-de-autos/brand-row.vue"
+  },
+  "AdminMetadataProductRowMetadata": {
+    "description": "Auto imported from components/admin/metadata/Product-row.metadata.vue"
+  },
+  "AdminMetadataCategories": {
+    "description": "Auto imported from components/admin/metadata/categories.vue"
+  },
+  "AdminMetadataMetaProductRow": {
+    "description": "Auto imported from components/admin/metadata/meta.product.row.vue"
+  },
+  "AdminMetadataPages": {
+    "description": "Auto imported from components/admin/metadata/pages.vue"
+  },
+  "AdminMetadataProducts": {
+    "description": "Auto imported from components/admin/metadata/products.vue"
+  },
+  "AdminModelosDeAutosImportModels": {
+    "description": "Auto imported from components/admin/modelos-de-autos/ImportModels.vue"
+  },
+  "AdminModelosDeAutosModels": {
+    "description": "Auto imported from components/admin/modelos-de-autos/Models.vue"
+  },
+  "AdminModelosDeAutosModelRow": {
+    "description": "Auto imported from components/admin/modelos-de-autos/model-row.vue"
+  },
+  "AdminModelosDeAutosUpdateModal": {
+    "description": "Auto imported from components/admin/modelos-de-autos/updateModal.vue"
+  },
+  "AdminOrdersMain": {
+    "description": "Auto imported from components/admin/orders/Main.vue"
+  },
+  "AdminOrdersOrder": {
+    "description": "Auto imported from components/admin/orders/Order.vue"
+  },
+  "AdminOrdersTable": {
+    "description": "Auto imported from components/admin/orders/OrdersTable.vue"
+  },
+  "AdminOrdersLogEditions": {
+    "description": "Auto imported from components/admin/orders/log-editions.vue"
+  },
+  "AdminOrdersSelector": {
+    "description": "Auto imported from components/admin/orders/selector.vue"
+  },
+  "AdminPostsBlock": {
+    "description": "Auto imported from components/admin/posts/block.vue"
+  },
+  "AdminPostsPanel": {
+    "description": "Auto imported from components/admin/posts/panel.vue"
+  },
+  "AdminPostsSection": {
+    "description": "Auto imported from components/admin/posts/section.vue"
+  },
+  "AdminPostsSections": {
+    "description": "Auto imported from components/admin/posts/sections.vue"
+  },
+  "AdminProductosImportProducts": {
+    "description": "Auto imported from components/admin/productos/ImportProducts.vue"
+  },
+  "AdminProductosProducts": {
+    "description": "Auto imported from components/admin/productos/Products.vue"
+  },
+  "AdminProductosCreateProduct": {
+    "description": "Auto imported from components/admin/productos/create.product.vue"
+  },
+  "AdminProductosOrderImagesProducts": {
+    "description": "Auto imported from components/admin/productos/orderImages.products.vue"
+  },
+  "AdminProductosPanicButton": {
+    "description": "Auto imported from components/admin/productos/panic-button.vue"
+  },
+  "AdminProductosProductImageModal": {
+    "description": "Auto imported from components/admin/productos/product.image-modal.vue"
+  },
+  "AdminProductosProductModelsModal": {
+    "description": "Auto imported from components/admin/productos/product.models-modal.vue"
+  },
+  "AdminProductosProductModelsRow": {
+    "description": "Auto imported from components/admin/productos/product.models-row.vue"
+  },
+  "AdminProductosProductRow": {
+    "description": "Auto imported from components/admin/productos/product.row.vue"
+  },
+  "AdminUsuarios": {
+    "description": "Auto imported from components/admin/usuarios/Usuarios.vue"
+  },
+  "AdminUsuariosUserModal": {
+    "description": "Auto imported from components/admin/usuarios/user.modal.vue"
+  },
+  "LayoutCarritoProductos": {
+    "description": "Auto imported from components/layout/carrito/carrito.productos.vue"
+  },
+  "LayoutCategoriesSidePanelCardCategoryPanel": {
+    "description": "Auto imported from components/layout/categories-side-panel/card.category.panel.vue"
+  },
+  "LayoutCategoriesSidePanelCategories": {
+    "description": "Auto imported from components/layout/categories-side-panel/panel.categories.vue"
+  },
+  "LayoutCategoriesSidePanelResCardCategoryPanel": {
+    "description": "Auto imported from components/layout/categories-side-panel-res/card.category.panel.vue"
+  },
+  "LayoutCategoriesSidePanelCategoriesRes": {
+    "description": "Auto imported from components/layout/categories-side-panel-res/panel.categories-res.vue"
+  },
+  "LayoutCommonsNavItems": {
+    "description": "Auto imported from components/layout/commons/nav-items.vue"
+  },
+  "LayoutFooter": {
+    "description": "Auto imported from components/layout/footer/Footer.vue"
+  },
+  "LayoutFooterCategoriesFooter": {
+    "description": "Auto imported from components/layout/footer/categories.footer.vue"
+  },
+  "LayoutFooterLogoFooter": {
+    "description": "Auto imported from components/layout/footer/logo.footer.vue"
+  },
+  "LayoutFooterMobileFooter": {
+    "description": "Auto imported from components/layout/footer/mobile.footer.vue"
+  },
+  "LayoutFooterWebFooter": {
+    "description": "Auto imported from components/layout/footer/web.footer.vue"
+  },
+  "LayoutNavMobNav": {
+    "description": "Auto imported from components/layout/nav/Mob.nav.vue"
+  },
+  "LayoutNavWideNav": {
+    "description": "Auto imported from components/layout/nav/Wide.nav.vue"
+  },
+  "LayoutNavBlackbarTopnav": {
+    "description": "Auto imported from components/layout/nav/blackbar.topnav.vue"
+  },
+  "LayoutNavSearchbarNav": {
+    "description": "Auto imported from components/layout/nav/searchbar.nav.vue"
+  },
+  "LayoutNavWideNavigationItems": {
+    "description": "Auto imported from components/layout/nav/wide.navigation-items.vue"
+  },
+  "ProductPageNotmodProductPage": {
+    "description": "Auto imported from components/product/page/notmod.product.page.vue"
+  },
+  "AdminConfiguracionesBannerHome": {
+    "description": "Auto imported from components/admin/configuraciones/banner-home/BannerHome.vue"
+  },
+  "AdminConfiguracionesBannerHomeAppimageUpload": {
+    "description": "Auto imported from components/admin/configuraciones/banner-home/appimage-upload.vue"
+  },
+  "AdminConfiguracionesHomeMarcas": {
+    "description": "Auto imported from components/admin/configuraciones/home-marcas/HomeMarcas.vue"
+  },
+  "AdminConfiguracionesHomeMarcasAppImageRow": {
+    "description": "Auto imported from components/admin/configuraciones/home-marcas/appImageRow.vue"
+  },
+  "AdminConfiguracionesHomeMarcasUpload": {
+    "description": "Auto imported from components/admin/configuraciones/home-marcas/upload.vue"
+  },
+  "AdminConfiguracionesLinktreeLinkRow": {
+    "description": "Auto imported from components/admin/configuraciones/linktree/link-row.vue"
+  },
+  "AdminConfiguracionesLinktree": {
+    "description": "Auto imported from components/admin/configuraciones/linktree/linktree.vue"
+  },
+  "AdminConfiguracionesSliderBannerHome": {
+    "description": "Auto imported from components/admin/configuraciones/slider-banner-home/SliderBannerHome.vue"
+  },
+  "AdminConfiguracionesSliderBannerHomeAppimageUpload": {
+    "description": "Auto imported from components/admin/configuraciones/slider-banner-home/appimage-upload.vue"
+  },
+  "AdminConfiguracionesSucursalesSucursalPreview": {
+    "description": "Auto imported from components/admin/configuraciones/sucursales/sucursal.preview.vue"
+  },
+  "AdminConfiguracionesSucursalesSucursalRow": {
+    "description": "Auto imported from components/admin/configuraciones/sucursales/sucursal.row.vue"
+  },
+  "AdminConfiguracionesSucursales": {
+    "description": "Auto imported from components/admin/configuraciones/sucursales/sucursales.vue"
+  },
+  "AdminConfiguracionesTextosBarraNegraTextRow": {
+    "description": "Auto imported from components/admin/configuraciones/textos-barra-negra/text-row.vue"
+  },
+  "AdminConfiguracionesTextosBarraNegra": {
+    "description": "Auto imported from components/admin/configuraciones/textos-barra-negra/textos-barra-negra.vue"
+  },
+  "AdminEstadisticasCancelados": {
+    "description": "Auto imported from components/admin/estadisticas/cancelados/cancelados.vue"
+  },
+  "AdminEstadisticasCanceladosMonthByDelivery": {
+    "description": "Auto imported from components/admin/estadisticas/cancelados/month-by-delivery.vue"
+  },
+  "AdminEstadisticasCanceladosMonthGraph": {
+    "description": "Auto imported from components/admin/estadisticas/cancelados/month-graph.vue"
+  },
+  "AdminEstadisticasCanceladosMonth": {
+    "description": "Auto imported from components/admin/estadisticas/cancelados/month.vue"
+  },
+  "AdminEstadisticasUsersChangePass": {
+    "description": "Auto imported from components/admin/estadisticas/users/changePass.vue"
+  },
+  "AdminEstadisticasUsersDaily": {
+    "description": "Auto imported from components/admin/estadisticas/users/daily.vue"
+  },
+  "AdminEstadisticasUsersList": {
+    "description": "Auto imported from components/admin/estadisticas/users/list.vue"
+  },
+  "AdminEstadisticasUsersMonthly": {
+    "description": "Auto imported from components/admin/estadisticas/users/monthly.vue"
+  },
+  "AdminEstadisticasUsers": {
+    "description": "Auto imported from components/admin/estadisticas/users/users.vue"
+  },
+  "AdminEstadisticasVentasMonthByDelivery": {
+    "description": "Auto imported from components/admin/estadisticas/ventas/month-by-delivery.vue"
+  },
+  "AdminEstadisticasVentasMonthGraph": {
+    "description": "Auto imported from components/admin/estadisticas/ventas/month-graph.vue"
+  },
+  "AdminEstadisticasVentasMonth": {
+    "description": "Auto imported from components/admin/estadisticas/ventas/month.vue"
+  },
+  "AdminEstadisticasVentas": {
+    "description": "Auto imported from components/admin/estadisticas/ventas/ventas.vue"
+  }
+}
